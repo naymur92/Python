@@ -19,6 +19,7 @@ print(f, "->", type(f))
 g = range(3)
 print(g, "->", type(g))
 
+# mapping type
 h = dict(name="Naymur", age=30)
 print(h, "->", type(h))
 
